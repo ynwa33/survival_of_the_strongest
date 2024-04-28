@@ -18,10 +18,10 @@ size, State);
 
 Fill = true;
 
-eat.load("C:/Users/husse/Downloads/eat.mp3");
-lose.load("C:/Users/husse/Downloads/lose.mp3");
-win.load("C:/Users/husse/Downloads/win.mp3");
-start.load("C:/Users/husse/Downloads/start.mp3");
+eat.load("");
+lose.load("\");
+win.load("");
+start.load("");
 
 for (int i = 0; i < 4; i++) {
 start.play();
